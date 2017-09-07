@@ -1,0 +1,3 @@
+D:/code/c/project/arrayInStruct/cmake-build-debug/CMakeFiles/arrayInStruct.dir
+D:/code/c/project/arrayInStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/c/project/arrayInStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
